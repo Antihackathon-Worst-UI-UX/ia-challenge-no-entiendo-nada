@@ -24,8 +24,9 @@ Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y
 
 ## Entrega ✅
 - Este repositorio será revisado por los jueces al termino de la competencia: *Martes 19 Agosto - 23:59*
-- Link Deploy = [Remplazar por el link donde tenga hosteada su UI]
-- Link Historial de Prompts = [Remplazar por el link donde tenga su historial de prompts]
+- Link Deploy = [pagina](https://tesintilde.github.io/ia-challenge-no-entiendo-nada/)
+- Link Historial de Prompts = [historial de prompts](https://docs.google.com/document/d/14jTcGfocehmZHzDDBYGIEGp2x8pgAuKkokq2XZPIwKM/edit?usp=sharing)
+- Video presentación = [video](https://www.youtube.com/watch?v=Ta2iku1Rls8) 
 
 ---
 
